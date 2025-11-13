@@ -1,175 +1,210 @@
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║     ██████╗ ██╗     ██╗██╗   ██╗██╗         ██████╗  ██████╗ ██╗   ██╗██████╗ ███████╗██╗     ║
-║     ██╔══██╗██║     ██║██║   ██║██║         ██╔══██╗██╔═══██╗██║   ██║██╔══██╗██╔════╝██║     ║
-║     ██████╔╝██║     ██║██║   ██║██║         ██████╔╝██║   ██║██║   ██║██║  ██║█████╗  ██║     ║
-║     ██╔══██╗██║██   ██║██║   ██║██║         ██╔═══╝ ██║   ██║██║   ██║██║  ██║██╔══╝  ██║     ║
-║     ██║  ██║██║╚█████╔╝╚██████╔╝███████╗    ██║     ╚██████╔╝╚██████╔╝██████╔╝███████╗███████╗║
-║     ╚═╝  ╚═╝╚═╝ ╚════╝  ╚═════╝ ╚══════╝    ╚═╝      ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝╚══════╝║
-║                                                                              ║
-║                    「 Building bridges between code and community 」          ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-## 📍 Current Location: Somewhere between learning and creating
-
-```typescript
-interface Developer {
-  name: string;
-  location: string;
-  currentMission: string;
-  philosophy: string;
-  drivenBy: string[];
-}
-
-const rijul: Developer = {
-  name: "Rijul Poudel",
-  location: "Nepal 🏔️",
-  currentMission: "Building a platform that empowers citizens to voice concerns directly to local government",
-  philosophy: "Technology should serve people, not the other way around",
-  drivenBy: [
-    "The belief that good design is invisible",
-    "The joy of solving real problems for real people",
-    "The challenge of making complex things simple",
-    "The impact of open-source communities"
-  ]
-};
-
-// Currently transforming TypeScript from a curiosity to a craft
-```
-
-<br>
-
----
-
-<br>
-
-## 🌱 What occupies my mind these days
-
-I'm deep in the trenches of building a **Full Stack Problem Reporting System** for local government in Nepal. The goal? Make it effortless for citizens to report infrastructure issues, and even more effortless for officials to act on them.
-
-**The challenge I'm solving:**
-> How do you build trust in a digital platform when the people using it are skeptical of both technology and bureaucracy?
-
-This has pushed me to think beyond code—about accessibility, about language, about the human experience of civic engagement.
-
-<br>
-
-### 🎯 Learning in public
-
-Right now, I'm wrestling with **TypeScript**. Not just the syntax, but the mindset—thinking in types, designing for maintainability, building systems that scale gracefully. 
-
-*Progress is messy. That's the point.*
-
-<br>
-
----
-
-<br>
-
-## 🛠️ Tools I reach for
-
-**When building interfaces:**  
-React · TypeScript · JavaScript · HTML/CSS · Sass · Bootstrap
-
-**When building systems:**  
-Node.js · Express · Python · Flask · MySQL · Firebase
-
-**When solving problems:**  
-Git · Docker · Linux · Jupyter · Data visualization libraries
-
-**When creating experiences:**  
-Figma · Adobe Suite · Design systems thinking
-
-*I don't chase every new framework. I focus on fundamentals and use tools that solve real problems elegantly.*
-
-<br>
-
----
-
-<br>
-
-## 💭 On collaboration & learning
-
-I believe the best way to learn is by doing—and the best way to grow is by teaching. 
-
-**I'm seeking collaborators who:**
-- Care more about impact than résumés
-- Enjoy the process as much as the outcome  
-- Understand that good code tells a story
-- Value feedback and thoughtful critique
-
-**Topics I can discuss for hours:**
-- Frontend architecture and component design
-- The intersection of UX and accessibility
-- How design decisions affect user behavior
-- Building for emerging markets with limited infrastructure
-
-<br>
-
----
-
-<br>
-
-## 📊 A glimpse at my work patterns
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=rijulpoudel&show_icons=true&theme=calm&hide_border=true&bg_color=ffffff&title_color=2c3e50&icon_color=3498db&text_color=2c3e50&hide=contribs)
+# 🌊 Welcome to Rijul's Digital Universe
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rijulpoudel&layout=compact&theme=calm&hide_border=true&bg_color=ffffff&title_color=2c3e50&text_color=2c3e50)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rijul%20Poudel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+### 💫 Full Stack Architect | TypeScript Enthusiast | Problem Solver
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Crafting+Digital+Experiences;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F;Building+Solutions+for+Tomorrow" alt="Typing SVG" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
-*These graphs don't tell the full story—the late nights debugging, the "aha" moments, the refactoring sessions, the collaborative problem-solving. But they're a start.*
-
-<br>
-
 ---
 
-<br>
+## 🎯 Current Mission
 
-## 🌐 Find me elsewhere
-
-I write about development, design, and the messy process of learning at **[bimarshapoudel.com.np](https://bimarshapoudel.com.np)**
-
-**Connect thoughtfully:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/rijulpoudel/) — for professional conversations
-- 📺 [YouTube](https://www.youtube.com/@rijulpoudel498) — where I document my learning journey
-- 📧 [rijulpoudel72@gmail.com](mailto:rijulpoudel72@gmail.com) — for meaningful dialogue
-
-<br>
-
----
-
-<br>
-
-## 🎨 Recent thoughts
-
-*"The best code is the code you don't have to write. The best design is the one users don't notice. The best solution is the one that empowers people to solve their own problems."*
-
-<br>
-
-Currently reading: **"The Design of Everyday Things"** by Don Norman  
-Currently listening to: Lo-fi beats and traditional Nepali music (it helps me focus)  
-Currently questioning: How do we build technology that respects cultural context?
-
-<br>
+```javascript
+const rijul = {
+    location: "Nepal 🇳🇵",
+    current_project: "Full Stack Platform for Local Government Problem Reporting",
+    learning: ["TypeScript", "System Design", "Cloud Architecture"],
+    passion: "Creating meaningful solutions that impact communities",
+    coffee_consumed: "∞ cups",
+    fun_fact: "I debug in my dreams 😴"
+};
+```
 
 ---
-
-<br>
 
 <div align="center">
 
-*This profile is a living document—it evolves as I do.*
+## 🛠️ My Tech Arsenal
 
-**Last updated:** November 2025
+### 🎨 Frontend Magic
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,sass,bootstrap,figma" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rijulpoudel&color=2c3e50&style=flat-square&label=Thoughtful+visitors)
+### ⚙️ Backend Powerhouse
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,firebase,mysql" />
+</p>
+
+### 🧰 Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,illustrator,photoshop" />
+</p>
+
+### 📊 Data Science & ML
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rijulpoudel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijulpoudel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rijulpoudel&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rijulpoudel&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=rijulpoudel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
+
+</div>
+
+---
+
+## 🎨 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Featured Projects
+- 🏛️ **Local Government Portal** - Bridging citizens and local authorities
+- 💼 **Portfolio Website** - Showcasing my journey
+- 📝 **Tech Blog** - Sharing knowledge and experiences
+- 🌐 **Open Source Contributions** - Giving back to the community
+
+</td>
+<td width="50%">
+
+### 🌱 Currently Growing
+```
+📚 Deep diving into TypeScript
+🎯 Mastering full-stack architecture
+🔧 Building scalable solutions
+💡 Exploring cloud technologies
+🤝 Collaborating on impactful projects
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🌐 Let's Connect & Create Together!
+
+<p align="center">
+<a href="https://github.com/rijulpoudel">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/rijulpoudel">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://youtube.com/@rijulpoudel498">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="mailto:rijulpoudel72@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://bimarshapoudel.com.np">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+</p>
+
+### 💬 Ask me about Frontend Development, UI/UX Design, or Full Stack Projects!
+
+<img src="https://komarev.com/ghpvc/?username=rijulpoudel&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="rijulpoudel" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Developer Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎵 Coding Vibe
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=58a6ff&bar_color_cover=false" />
+
+*Replace YOUR_SPOTIFY_ID with your actual Spotify ID for live music integration*
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Watch the Snake Eat My Contributions!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rijulpoudel/rijulpoudel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rijulpoudel/rijulpoudel/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rijulpoudel/rijulpoudel/output/github-contribution-grid-snake.svg">
+</picture>
+
+*Note: To enable the snake animation, you'll need to set up the [platane/snk](https://github.com/Platane/snk) GitHub Action*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 2025 Goals
+
+- [ ] Master TypeScript & Advanced React Patterns
+- [ ] Contribute to 10+ Open Source Projects
+- [ ] Build & Deploy 5 Full Stack Applications
+- [ ] Write 50+ Technical Blog Posts
+- [ ] Mentor 20+ Aspiring Developers
+- [ ] Learn System Design & Cloud Architecture
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<div align="center">
+  
+### ⭐️ From [Rijul Poudel](https://github.com/rijulpoudel) with 💙
+
+**"Code is like humor. When you have to explain it, it's bad!"** 
 
 </div>
