@@ -42,9 +42,9 @@ const worldview: Philosophy = {
 
 ## Currently Building
 
-**Local Government Problem Reporting System**
+**Local Government Problem Reporting System -- Echo**
 
-A full-stack platform designed to give citizens a voice and local officials the tools to act. The real challenge isn't technical—it's building trust in a system where both technology and bureaucracy face skepticism.
+A full-stack platform designed to give Nepalese citizens a voice and local officials the tools to act. 
 
 <br/>
 
@@ -58,19 +58,17 @@ A full-stack platform designed to give citizens a voice and local officials the 
 
 **Deep in TypeScript**
 
-Moving beyond syntax into architectural thinking—designing type-safe systems that scale gracefully and fail predictably.
+Trying to learn working with tight rules!
 
 <br/>
 
 **Exploring:**
-- Advanced React patterns
+- React patterns
 - System design principles  
-- Infrastructure as code
-- Accessible design systems
 
 <br/>
 
-*Progress is rarely linear. That's what makes it interesting.*
+*Nothing is easy!*
 
 </td>
 </tr>
@@ -132,9 +130,6 @@ Moving beyond syntax into architectural thinking—designing type-safe systems t
 
 <br/>
 
-<sub>These graphs show the visible work—commits, languages, streaks. They don't capture the thinking, the debugging sessions, the refactoring, the collaborative problem-solving. But they're a starting point.</sub>
-
-</div>
 
 <br/>
 <br/>
@@ -148,16 +143,16 @@ Moving beyond syntax into architectural thinking—designing type-safe systems t
 I believe the best learning happens through doing, and the best growth happens through teaching.
 
 **I value collaborators who:**
-- Prioritize impact over résumés
+- Prioritize impact over resumes
 - Enjoy the journey as much as the destination
-- Understand that good code tells a story
-- Welcome thoughtful critique
+- Try to understand concepts
+- No vibe coders please
 
-**Topics I can discuss endlessly:**
-- Component architecture and design systems
-- The intersection of UX and accessibility  
-- How design decisions shape user behavior
-- Building for contexts with limited infrastructure
+**Things I can discuss endlessly:**
+- Football ⚽️ (You might call it soccer)
+- Filmmaking 🎥
+- Photograhy 📷
+- Plants 🪴
 
 <br/>
 <br/>
@@ -191,16 +186,8 @@ I believe the best learning happens through doing, and the best growth happens t
 
 ### Currently Reading
 
-*"The Design of Everyday Things"* by Don Norman
+*"Why we Sleep "* by Matthew Walker
 
-### Currently Listening To
-
-Lo-fi beats and traditional Nepali music  
-(It helps me focus)
-
-### Currently Questioning
-
-How do we build technology that respects cultural context?
 
 </div>
 
