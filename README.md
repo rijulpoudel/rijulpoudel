@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1a1a1a&text=Rijul%20Poudel&height=150&fontSize=58&desc=Developer%20·%20Designer%20·%20Builder&descAlignY=75&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=666&text=Rijul%20Poudel&height=150&fontSize=58&desc=Developer%20·%20Designer%20·%20Builder&descAlignY=75&descAlign=50" />
 
 </div>
 
@@ -89,26 +89,26 @@ Moving beyond syntax into architectural thinking—designing type-safe systems t
 
 **Building Interfaces**
 
-![React](https://img.shields.io/badge/-React-23272f?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-23272f?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-23272f?style=flat-square&logo=javascript)
-![Sass](https://img.shields.io/badge/-Sass-23272f?style=flat-square&logo=sass)
-![Figma](https://img.shields.io/badge/-Figma-23272f?style=flat-square&logo=figma)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000)
+![Sass](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=fff)
 
 **Building Systems**
 
-![Node.js](https://img.shields.io/badge/-Node.js-23272f?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-23272f?style=flat-square&logo=express)
-![Python](https://img.shields.io/badge/-Python-23272f?style=flat-square&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-23272f?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-23272f?style=flat-square&logo=docker)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=fff)
 
 **Analysis & Visualization**
 
-![Jupyter](https://img.shields.io/badge/-Jupyter-23272f?style=flat-square&logo=jupyter)
-![NumPy](https://img.shields.io/badge/-NumPy-23272f?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-23272f?style=flat-square&logo=pandas)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-23272f?style=flat-square&logo=scikit-learn)
+![Jupyter](https://img.shields.io/badge/-Jupyter-f37626?style=flat-square&logo=jupyter&logoColor=fff)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=fff)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=fff)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=fff)
 
 </div>
 
@@ -127,8 +127,8 @@ Moving beyond syntax into architectural thinking—designing type-safe systems t
 
 ## Work Patterns
 
-<img src="https://github-readme-stats.vercel.app/api?username=rijulpoudel&show_icons=true&theme=transparent&hide_border=true&title_color=1a1a1a&text_color=4a4a4a&icon_color=6a6a6a&hide=contribs&card_width=445" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijulpoudel&layout=compact&theme=transparent&hide_border=true&title_color=1a1a1a&text_color=4a4a4a&card_width=445" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=rijulpoudel&show_icons=true&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&bg_color=00000000&hide=contribs&card_width=445" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijulpoudel&layout=compact&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=00000000&card_width=445" height="165" />
 
 <br/>
 
@@ -217,7 +217,7 @@ How do we build technology that respects cultural context?
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rijulpoudel&color=1a1a1a&style=flat-square&label=visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=rijulpoudel&color=58a6ff&style=flat-square&label=visitors)
 
 </div>
 
