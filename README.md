@@ -1,62 +1,175 @@
-🌙✨ Hey, I’m Rijul Poudel
-Full-Stack Explorer • Visual Thinker • Problem-Solver
+```ascii
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║     ██████╗ ██╗     ██╗██╗   ██╗██╗         ██████╗  ██████╗ ██╗   ██╗██████╗ ███████╗██╗     ║
+║     ██╔══██╗██║     ██║██║   ██║██║         ██╔══██╗██╔═══██╗██║   ██║██╔══██╗██╔════╝██║     ║
+║     ██████╔╝██║     ██║██║   ██║██║         ██████╔╝██║   ██║██║   ██║██║  ██║█████╗  ██║     ║
+║     ██╔══██╗██║██   ██║██║   ██║██║         ██╔═══╝ ██║   ██║██║   ██║██║  ██║██╔══╝  ██║     ║
+║     ██║  ██║██║╚█████╔╝╚██████╔╝███████╗    ██║     ╚██████╔╝╚██████╔╝██████╔╝███████╗███████╗║
+║     ╚═╝  ╚═╝╚═╝ ╚════╝  ╚═════╝ ╚══════╝    ╚═╝      ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝╚══════╝║
+║                                                                              ║
+║                    「 Building bridges between code and community 」          ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-Crafting digital experiences that feel clean, intuitive, and human.
+<br>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=rijulpoudel&label=Profile+Views&color=6aa6f8&style=flat-square" /> </div>
-💡 About Me
+## 📍 Current Location: Somewhere between learning and creating
 
-🚀 Building a full-stack platform that helps people report local government issues seamlessly.
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  currentMission: string;
+  philosophy: string;
+  drivenBy: string[];
+}
 
-📚 Leveling up in TypeScript, backend design & scalable system architecture.
+const rijul: Developer = {
+  name: "Rijul Poudel",
+  location: "Nepal 🏔️",
+  currentMission: "Building a platform that empowers citizens to voice concerns directly to local government",
+  philosophy: "Technology should serve people, not the other way around",
+  drivenBy: [
+    "The belief that good design is invisible",
+    "The joy of solving real problems for real people",
+    "The challenge of making complex things simple",
+    "The impact of open-source communities"
+  ]
+};
 
-🤝 Always down to collaborate on meaningful projects—especially anything involving UI/UX or impactful tech.
+// Currently transforming TypeScript from a curiosity to a craft
+```
 
-🎨 Passionate about frontend design, micro-interactions, and turning concepts into clean experiences.
+<br>
 
-📫 Reach me at: rijulpoudel72@gmail.com
+---
 
-🌐 Portfolio & blog: https://bimarshapoudel.com.np
+<br>
 
-🌐 Connect With Me
-<div> <a href="https://github.com/rijulpoudel"><img src="https://skillicons.dev/icons?i=github" width="45"/></a> <a href="https://www.linkedin.com/in/rijulpoudel/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a> <a href="https://www.youtube.com/@rijulpoudel498"><img src="https://skillicons.dev/icons?i=youtube" width="45"/></a> </div>
-🛠️ Tech Stack
+## 🌱 What occupies my mind these days
+
+I'm deep in the trenches of building a **Full Stack Problem Reporting System** for local government in Nepal. The goal? Make it effortless for citizens to report infrastructure issues, and even more effortless for officials to act on them.
+
+**The challenge I'm solving:**
+> How do you build trust in a digital platform when the people using it are skeptical of both technology and bureaucracy?
+
+This has pushed me to think beyond code—about accessibility, about language, about the human experience of civic engagement.
+
+<br>
+
+### 🎯 Learning in public
+
+Right now, I'm wrestling with **TypeScript**. Not just the syntax, but the mindset—thinking in types, designing for maintainability, building systems that scale gracefully. 
+
+*Progress is messy. That's the point.*
+
+<br>
+
+---
+
+<br>
+
+## 🛠️ Tools I reach for
+
+**When building interfaces:**  
+React · TypeScript · JavaScript · HTML/CSS · Sass · Bootstrap
+
+**When building systems:**  
+Node.js · Express · Python · Flask · MySQL · Firebase
+
+**When solving problems:**  
+Git · Docker · Linux · Jupyter · Data visualization libraries
+
+**When creating experiences:**  
+Figma · Adobe Suite · Design systems thinking
+
+*I don't chase every new framework. I focus on fundamentals and use tools that solve real problems elegantly.*
+
+<br>
+
+---
+
+<br>
+
+## 💭 On collaboration & learning
+
+I believe the best way to learn is by doing—and the best way to grow is by teaching. 
+
+**I'm seeking collaborators who:**
+- Care more about impact than résumés
+- Enjoy the process as much as the outcome  
+- Understand that good code tells a story
+- Value feedback and thoughtful critique
+
+**Topics I can discuss for hours:**
+- Frontend architecture and component design
+- The intersection of UX and accessibility
+- How design decisions affect user behavior
+- Building for emerging markets with limited infrastructure
+
+<br>
+
+---
+
+<br>
+
+## 📊 A glimpse at my work patterns
+
 <div align="center">
 
-Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,python,cpp,nodejs,express,flask" />
+![](https://github-readme-stats.vercel.app/api?username=rijulpoudel&show_icons=true&theme=calm&hide_border=true&bg_color=ffffff&title_color=2c3e50&icon_color=3498db&text_color=2c3e50&hide=contribs)
 
-Tools & Platforms
-<img src="https://skillicons.dev/icons?i=firebase,docker,mysql,git,linux" />
-
-Design & Creative
-<img src="https://skillicons.dev/icons?i=figma,ai,ps" />
-
-Data & Analytics
-<img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rijulpoudel&layout=compact&theme=calm&hide_border=true&bg_color=ffffff&title_color=2c3e50&text_color=2c3e50)
 
 </div>
-🎨 My Aesthetic
 
-Clean code, seamless interfaces, and a whole lot of curiosity.
+*These graphs don't tell the full story—the late nights debugging, the "aha" moments, the refactoring sessions, the collaborative problem-solving. But they're a start.*
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rijulpoudel&theme=flat&no-bg=true&margin-w=20" /> </div>
-📊 GitHub Stats
-<div align="center"> <img height="155" src="https://github-readme-stats.vercel.app/api?username=rijulpoudel&show_icons=true&theme=transparent&hide_border=true" /> <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijulpoudel&layout=compact&theme=transparent&hide_border=true" /> <img height="180" src="https://streak-stats.demolab.com?user=rijulpoudel&theme=transparent&hide_border=true" /> </div>
-🌱 Current Focus
+<br>
 
-Building smoother user journeys
+---
 
-Leveling up backend confidence
+<br>
 
-Designing interfaces that feel good
+## 🌐 Find me elsewhere
 
-Preparing for a Data Science internship
+I write about development, design, and the messy process of learning at **[bimarshapoudel.com.np](https://bimarshapoudel.com.np)**
 
-🧩 Fun Side Projects
+**Connect thoughtfully:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/rijulpoudel/) — for professional conversations
+- 📺 [YouTube](https://www.youtube.com/@rijulpoudel498) — where I document my learning journey
+- 📧 [rijulpoudel72@gmail.com](mailto:rijulpoudel72@gmail.com) — for meaningful dialogue
 
-✨ 2gether — a digital space for long-distance couples
+<br>
 
-📸 Visual storytelling & short films
+---
 
-🎧 Creative coding, animations & micro-interactions
+<br>
+
+## 🎨 Recent thoughts
+
+*"The best code is the code you don't have to write. The best design is the one users don't notice. The best solution is the one that empowers people to solve their own problems."*
+
+<br>
+
+Currently reading: **"The Design of Everyday Things"** by Don Norman  
+Currently listening to: Lo-fi beats and traditional Nepali music (it helps me focus)  
+Currently questioning: How do we build technology that respects cultural context?
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+*This profile is a living document—it evolves as I do.*
+
+**Last updated:** November 2025
+
+![Profile Views](https://komarev.com/ghpvc/?username=rijulpoudel&color=2c3e50&style=flat-square&label=Thoughtful+visitors)
+
+</div>
