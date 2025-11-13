@@ -15,23 +15,6 @@
 <br/>
 <br/>
 
-```typescript
-interface Philosophy {
-  readonly belief: string;
-  readonly approach: string;
-  readonly drive: string;
-}
-
-const worldview: Philosophy = {
-  belief: "Technology should empower communities, not complicate lives",
-  approach: "Solve real problems with elegant simplicity",
-  drive: "Build bridges between code and culture"
-};
-```
-
-<br/>
-<br/>
-
 ---
 
 <br/>
