@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### Crafting digital solutions from the foothills of the Himalayas
+### Good Day!
 
 </div>
 
