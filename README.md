@@ -16,15 +16,15 @@
 
 <br/>
 
-CS student at the **University of Kansas** (graduating May 2027). I build things that solve real problems — civic tech, AI health tools, automated systems. Currently writing end-to-end tests at the KU Biodiversity Institute and going deep on TypeScript.
+CS student at the **University of Kansas** (graduating May 2027). I build things that solve real problems — civic tech, AI health tools, automated systems. Currently writing end-to-end tests at Specify and going deep on TypeScript.
 
 ---
 
 ## 🔆 Now
 
-- 🧪 Writing Playwright E2E tests at [KU Biodiversity Institute](https://biodiversity.ku.edu) for Specify 7
-- 🌐 Building a dual-identity portfolio (Next.js + GSAP + Framer Motion)
-- 📖 Reading: *Why We Sleep* by Matthew Walker
+- 🧪 Writing Playwright E2E tests at [Specify Collections Consortium](https://www.specifysoftware.org/) for Specify 7
+- 🌐 Building a Personal Finance App (Next.js + Node.js + Plaid API)
+- 📖 Reading: *The Bell Jar* by Sylvia Plath
 
 ---
 
@@ -62,15 +62,9 @@ CS student at the **University of Kansas** (graduating May 2027). I build things
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logo=davinci-resolve&logoColor=fff)
 
-**Exploring**
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=fff)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=fff)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=fff)
-
 ---
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rijulpoudel&show_icons=true&hide_border=true&title_color=1D9E75&text_color=888780&icon_color=1D9E75&bg_color=00000000&hide=contribs" height="155" />
@@ -79,12 +73,11 @@ CS student at the **University of Kansas** (graduating May 2027). I build things
 
 ---
 
-## 🌱 Outside the terminal
+## Outside the terminal
 
 - ⚽ FC Barcelona — Messi was never a debate
 - 📷 Running [Crafteako](https://bimarshapoudel.com.np), shooting on a Panasonic Lumix S5II
-- 🎣 Discovered fishing in the US. Staying.
-- 🌿 Secretary, Nepalese Student Association at KU
+- 🎣 Discovered fishing in the US.
 
 ---
 
