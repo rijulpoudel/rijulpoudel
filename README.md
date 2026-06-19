@@ -76,7 +76,7 @@ CS student at the **University of Kansas** (graduating May 2027). I build things
 ## Outside the terminal
 
 - ⚽ FC Barcelona — Messi was never a debate
-- 📷 Running [Crafteako](https://bimarshapoudel.com.np), shooting on a Panasonic Lumix S5II
+- 📷 Running [Crafteako](https://crafteako.com, shooting on a Panasonic Lumix S5II
 - 🎣 Discovered fishing in the US.
 
 ---
