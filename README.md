@@ -22,7 +22,7 @@ CS student at the **University of Kansas** (graduating May 2027). I build things
 
 ## 🔆 Now
 
-- 🧪 Writing Playwright E2E tests at [Specify Collections Consortium](https://www.specifysoftware.org/) for Specify 7
+- 🧪 Writing tests at [Specify Collections Consortium](https://www.specifysoftware.org/) for Specify 7
 - 🌐 Building a Personal Finance App (Next.js + Node.js + Plaid API)
 - 📖 Reading: *The Bell Jar* by Sylvia Plath
 
